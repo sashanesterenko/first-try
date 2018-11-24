@@ -9,3 +9,5 @@ def get_vat (payment, percent=18):
         return "Try again"
 result = get_vat (100, 10)
 print(result)
+
+print("Yellow")
